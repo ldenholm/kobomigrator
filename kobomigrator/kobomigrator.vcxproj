@@ -132,9 +132,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.gitignore" />
-    <None Include="C:\Users\Loki\Downloads\Fox, Michael Allen - The Accessible Hegel (2005, Humanity Books) - libgen.li.epub" />
-    <None Include="C:\Users\Loki\Downloads\Slavoj Zizek - First as Tragedy, then as Farce (2009, Verso) - libgen.li.azw3" />
-    <None Include="C:\Users\Loki\Downloads\[Verso Futures] Byung-Chul Han - Psychopolitics_ Neoliberalism and New Technologies of Power (2017, Verso) - libgen.li.mobi" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\Output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
