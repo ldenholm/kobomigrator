@@ -7,3 +7,10 @@
 /kobomigrator/kobomigrator/Debug
 /kobomigrator/kobomigrator/x64/Debug
 /kobomigrator/x64/Debug
+*.epub
+*.pdf
+*.mobi
+*.azw3
+/.vs/kobomigrator
+/Debug
+/x64/Debug

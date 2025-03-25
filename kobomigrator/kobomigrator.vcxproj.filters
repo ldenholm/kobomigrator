@@ -13,10 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\KoboDemo">
+      <UniqueIdentifier>{81a3ff02-6b2d-4aef-ac6d-b9493b4272c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Loki\Downloads\Fox, Michael Allen - The Accessible Hegel (2005, Humanity Books) - libgen.li.epub">
+      <Filter>Resource Files\KoboDemo</Filter>
+    </None>
+    <None Include="C:\Users\Loki\Downloads\Slavoj Zizek - First as Tragedy, then as Farce (2009, Verso) - libgen.li.azw3">
+      <Filter>Resource Files\KoboDemo</Filter>
+    </None>
+    <None Include="C:\Users\Loki\Downloads\[Verso Futures] Byung-Chul Han - Psychopolitics_ Neoliberalism and New Technologies of Power (2017, Verso) - libgen.li.mobi">
+      <Filter>Resource Files\KoboDemo</Filter>
+    </None>
+    <None Include="..\.gitignore" />
   </ItemGroup>
 </Project>
