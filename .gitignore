@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/kobomigrator/.vs/kobomigrator
+/kobomigrator/Debug
+/kobomigrator/kobomigrator/Debug
+/kobomigrator/kobomigrator/x64/Debug
+/kobomigrator/x64/Debug
